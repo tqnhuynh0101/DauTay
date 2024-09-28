@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "DauTay.Controllers.Category.ProductTypeController",
+    "Method": "Get",
+    "RelativePath": "api/ProductType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DauTay.Controllers.Category.ProductTypeController",
+    "Method": "Create",
+    "RelativePath": "api/ProductType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productTypeCreate",
+        "Type": "DauTay.DTO.Category.ProductType.CreateProductTypeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DauTay.Controllers.Category.ProductTypeController",
+    "Method": "Update",
+    "RelativePath": "api/ProductType/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "productTypeCreate",
+        "Type": "DauTay.DTO.Category.ProductType.CreateProductTypeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DauTay.Controllers.Category.ProductTypeController",
+    "Method": "Delete",
+    "RelativePath": "api/ProductType/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

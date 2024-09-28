@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\entities\\category\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\entities\\category\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\controllers\\category\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\controllers\\category\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\dto\\category\\producttype\\producttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\dto\\category\\producttype\\producttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\service\\mongosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\service\\mongosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\dto\\category\\producttype\\createproducttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\dto\\category\\producttype\\createproducttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\extentions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\extentions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\mapper\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\mapper\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\controllers\\helpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\controllers\\helpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\interfaces\\category\\iproducttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\interfaces\\category\\iproducttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\common\\staticmessageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\common\\staticmessageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\repositories\\category\\producttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\repositories\\category\\producttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|c:\\users\\eztec01\\desktop\\nagn\\dautay\\dautay\\dautay.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A7B3DE3-FFD8-4B6A-B8B6-B33839680EAF}|DauTay\\DauTay.csproj|solutionrelative:dautay\\dautay.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DauTay\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "DauTay\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:00:13.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Controllers\\Category\\ProductTypeController.cs",
+              "RelativeDocumentMoniker": "DauTay\\Controllers\\Category\\ProductTypeController.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Controllers\\Category\\ProductTypeController.cs",
+              "RelativeToolTip": "DauTay\\Controllers\\Category\\ProductTypeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:05:49.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Program.cs",
+              "RelativeDocumentMoniker": "DauTay\\Program.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Program.cs",
+              "RelativeToolTip": "DauTay\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:54:28.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Extentions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "DauTay\\Extentions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Extentions\\ServiceExtensions.cs",
+              "RelativeToolTip": "DauTay\\Extentions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:04:38.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\appsettings.json",
+              "RelativeDocumentMoniker": "DauTay\\appsettings.json",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\appsettings.json",
+              "RelativeToolTip": "DauTay\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T07:54:32.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\DTO\\Category\\ProductType\\ProductTypeDTO.cs",
+              "RelativeDocumentMoniker": "DauTay\\DTO\\Category\\ProductType\\ProductTypeDTO.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\DTO\\Category\\ProductType\\ProductTypeDTO.cs",
+              "RelativeToolTip": "DauTay\\DTO\\Category\\ProductType\\ProductTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:30:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Entities\\Category\\ProductType.cs",
+              "RelativeDocumentMoniker": "DauTay\\Entities\\Category\\ProductType.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Entities\\Category\\ProductType.cs",
+              "RelativeToolTip": "DauTay\\Entities\\Category\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:21:56.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MongoSetting.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Service\\MongoSetting.cs",
+              "RelativeDocumentMoniker": "DauTay\\Service\\MongoSetting.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Service\\MongoSetting.cs",
+              "RelativeToolTip": "DauTay\\Service\\MongoSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:15:02.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DauTay\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\appsettings.Development.json",
+              "RelativeToolTip": "DauTay\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T09:15:04.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DauTay\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DauTay\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T07:54:39.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\DTO\\Category\\ProductType\\CreateProductTypeDTO.cs",
+              "RelativeDocumentMoniker": "DauTay\\DTO\\Category\\ProductType\\CreateProductTypeDTO.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\DTO\\Category\\ProductType\\CreateProductTypeDTO.cs",
+              "RelativeToolTip": "DauTay\\DTO\\Category\\ProductType\\CreateProductTypeDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:38:54.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "DauTay\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "DauTay\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:59:55.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Mapper\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "DauTay\\Mapper\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Mapper\\CategoryProfile.cs",
+              "RelativeToolTip": "DauTay\\Mapper\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:27:51.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "DauTay\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "DauTay\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:23:15.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DauTay\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "DauTay\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:34:51.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Interfaces\\Category\\IProductTypeRepository.cs",
+              "RelativeDocumentMoniker": "DauTay\\Interfaces\\Category\\IProductTypeRepository.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Interfaces\\Category\\IProductTypeRepository.cs",
+              "RelativeToolTip": "DauTay\\Interfaces\\Category\\IProductTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:22:51.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HelpsController.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Controllers\\HelpsController.cs",
+              "RelativeDocumentMoniker": "DauTay\\Controllers\\HelpsController.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Controllers\\HelpsController.cs",
+              "RelativeToolTip": "DauTay\\Controllers\\HelpsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:07:12.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Repositories\\Category\\ProductTypeRepository.cs",
+              "RelativeDocumentMoniker": "DauTay\\Repositories\\Category\\ProductTypeRepository.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Repositories\\Category\\ProductTypeRepository.cs",
+              "RelativeToolTip": "DauTay\\Repositories\\Category\\ProductTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:22:30.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StaticMessageResponse.cs",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Common\\StaticMessageResponse.cs",
+              "RelativeDocumentMoniker": "DauTay\\Common\\StaticMessageResponse.cs",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\Common\\StaticMessageResponse.cs",
+              "RelativeToolTip": "DauTay\\Common\\StaticMessageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:18:38.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DauTay.csproj",
+              "DocumentMoniker": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\DauTay.csproj",
+              "RelativeDocumentMoniker": "DauTay\\DauTay.csproj",
+              "ToolTip": "C:\\Users\\eztec01\\Desktop\\Nagn\\DauTay\\DauTay\\DauTay.csproj",
+              "RelativeToolTip": "DauTay\\DauTay.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T08:03:54.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
